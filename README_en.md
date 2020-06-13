@@ -8,7 +8,7 @@ Alas, an Azur Lane automation tool with GUI (For CN server, can support other se
 
 - **Campaign**: Currently support the first 6 chapter and 7-2  
 
-- **Events**: Support「Skybound Oratorio」, specifically map D1 and D3, supporting handling of 光之壁? (Fleet is unable to proceed into square that has 光之壁. Support 开荒)
+- **Events**: Support「Skybound Oratorio」, specifically map D1 and D3, supporting handling of 光之壁? (Fleet is unable to proceed into square that has barriers. Support progression.)
 
 - **Daily Mission**: Able to finish everything in 30 minutes, repeated run will skip over what has been done on that day  
 
